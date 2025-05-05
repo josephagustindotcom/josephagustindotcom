@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Joseph Agustin</h1>
-<h3 align="center">A web developer from Philippines/h3>
+<h3 align="center">A web developer from Philippines</h3>
 <h4 align="center">Hi, my name is Joseph Agustin, a passionate web developer based in Angeles City. With over 5 years of hands-on experience in web development, I've built everything from dynamic business websites to custom applications using modern technologies. </h4>
 
 <hr>
